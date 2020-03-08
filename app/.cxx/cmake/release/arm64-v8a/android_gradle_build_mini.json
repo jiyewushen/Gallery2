@@ -1,0 +1,163 @@
+{
+  "buildFiles": [
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jconfigint.h.in",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\tjexampletest.in",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\cmakescripts\\BuildPackages.cmake",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\cmakescripts\\GNUInstallDirs.cmake",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\release\\libjpeg.pc.in",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\release\\libturbojpeg.pc.in",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\libjpeg.map.in",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpegstream\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\tjbenchtest.in",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_egl\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\release\\maketarball.in",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\simd\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\cmakescripts\\cmake_uninstall.cmake.in",
+    "D:\\android_sdk_beta\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\sharedlib\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\md5\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jconfig.h.in",
+    "D:\\android_sdk_beta\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "jpegtran-static-Release-arm64-v8a": {
+      "artifactName": "jpegtran-static",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" jpegtran-static",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\jpegtran-static"
+    },
+    "djpeg-Release-arm64-v8a": {
+      "artifactName": "djpeg",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" djpeg",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\djpeg"
+    },
+    "turbojpeg-static-Release-arm64-v8a": {
+      "artifactName": "turbojpeg-static",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" turbojpeg-static",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\libturbojpeg.a"
+    },
+    "jpeg-Release-arm64-v8a": {
+      "artifactName": "jpeg",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" jpeg",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\libjpeg.so"
+    },
+    "jni_eglfence-Release-arm64-v8a": {
+      "artifactName": "jni_eglfence",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" jni_eglfence",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jniLibs\\arm64-v8a\\libjni_eglfence.so"
+    },
+    "tjbench-static-Release-arm64-v8a": {
+      "artifactName": "tjbench-static",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" tjbench-static",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\tjbench-static"
+    },
+    "md5cmp-Release-arm64-v8a": {
+      "artifactName": "md5cmp",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" md5cmp",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\md5\\md5cmp"
+    },
+    "jpegtran-Release-arm64-v8a": {
+      "artifactName": "jpegtran",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" jpegtran",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\jpegtran"
+    },
+    "jni_jpegstream-Release-arm64-v8a": {
+      "artifactName": "jni_jpegstream",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" jni_jpegstream",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jniLibs\\arm64-v8a\\libjni_jpegstream.so"
+    },
+    "turbojpeg-Release-arm64-v8a": {
+      "artifactName": "turbojpeg",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" turbojpeg",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jniLibs\\arm64-v8a\\libturbojpeg.so"
+    },
+    "tjunittest-Release-arm64-v8a": {
+      "artifactName": "tjunittest",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" tjunittest",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\tjunittest"
+    },
+    "djpeg-static-Release-arm64-v8a": {
+      "artifactName": "djpeg-static",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" djpeg-static",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\djpeg-static"
+    },
+    "tjexample-Release-arm64-v8a": {
+      "artifactName": "tjexample",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" tjexample",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\tjexample"
+    },
+    "cjpeg-static-Release-arm64-v8a": {
+      "artifactName": "cjpeg-static",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" cjpeg-static",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\cjpeg-static"
+    },
+    "tjunittest-static-Release-arm64-v8a": {
+      "artifactName": "tjunittest-static",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" tjunittest-static",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\tjunittest-static"
+    },
+    "cjpeg-Release-arm64-v8a": {
+      "artifactName": "cjpeg",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" cjpeg",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\cjpeg"
+    },
+    "rdjpgcom-Release-arm64-v8a": {
+      "artifactName": "rdjpgcom",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" rdjpgcom",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\rdjpgcom"
+    },
+    "jcstest-Release-arm64-v8a": {
+      "artifactName": "jcstest",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" jcstest",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\jcstest"
+    },
+    "wrjpgcom-Release-arm64-v8a": {
+      "artifactName": "wrjpgcom",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" wrjpgcom",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\wrjpgcom"
+    },
+    "tjbench-Release-arm64-v8a": {
+      "artifactName": "tjbench",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" tjbench",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\tjbench"
+    },
+    "jni_filtershow_filters-Release-arm64-v8a": {
+      "artifactName": "jni_filtershow_filters",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" jni_filtershow_filters",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jniLibs\\arm64-v8a\\libjni_filtershow_filters.so"
+    },
+    "jpeg-static-Release-arm64-v8a": {
+      "artifactName": "jpeg-static",
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\" jpeg-static",
+      "abi": "arm64-v8a",
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\jni_jpeg\\outputs\\libjpeg.a"
+    }
+  }
+}

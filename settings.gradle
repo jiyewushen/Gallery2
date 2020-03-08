@@ -1,0 +1,3 @@
+rootProject.name='Gallery2'
+include ':app'
+include ':mp4parser'

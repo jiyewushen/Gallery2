@@ -1,0 +1,1400 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 18 min SDK version: arm64-v8a",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\android_gradle_build.json due to:",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_command.txt, will remove stale json folder",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\u0027",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\u0027",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HD:\\aosp\\Gallery2\\app\\src\\main\\cpp\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DCMAKE_TOOLCHAIN_FILE\u003dD:\\android_sdk_beta\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dD:\\android_sdk_beta\\ndk\\20.0.5594570\n-DANDROID_PLATFORM\u003dandroid-18\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_NDK\u003dD:\\android_sdk_beta\\ndk\\20.0.5594570\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\aosp\\Gallery2\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\n-DCMAKE_MAKE_PROGRAM\u003dD:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d18\n-BD:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"D:/aosp/Gallery2/app/src/main/cpp\",\n  \"buildDirectory\": \"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dD:\\\\android_sdk_beta\\\\ndk\\\\20.0.5594570\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darm64-v8a\",\n    \"-DANDROID_NDK\\u003dD:\\\\android_sdk_beta\\\\ndk\\\\20.0.5594570\",\n    \"-DANDROID_PLATFORM\\u003dandroid-18\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darm64-v8a\",\n    \"-DCMAKE_ANDROID_NDK\\u003dD:\\\\android_sdk_beta\\\\ndk\\\\20.0.5594570\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dD:\\\\aosp\\\\Gallery2\\\\app\\\\build\\\\intermediates\\\\cmake\\\\release\\\\obj\\\\arm64-v8a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dD:\\\\android_sdk_beta\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d18\"\n  ]\n}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":334,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":356,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":377,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":398,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMAKE_BUILD_TYPE \u003d Release\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMAKE_BUILD_TYPE \u003d Release",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"VERSION \u003d 2.0.5, BUILD \u003d 20200308\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "VERSION \u003d 2.0.5, BUILD \u003d 20200308",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"64-bit build (arm64)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "64-bit build (arm64)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMAKE_INSTALL_PREFIX \u003d /opt/Project\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMAKE_INSTALL_PREFIX \u003d /opt/Project",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMAKE_INSTALL_BINDIR \u003d bin (/opt/Project/bin)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMAKE_INSTALL_BINDIR \u003d bin (/opt/Project/bin)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMAKE_INSTALL_DATAROOTDIR \u003d  (/opt/Project)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMAKE_INSTALL_DATAROOTDIR \u003d  (/opt/Project)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMAKE_INSTALL_DOCDIR \u003d doc (/opt/Project/doc)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMAKE_INSTALL_DOCDIR \u003d doc (/opt/Project/doc)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMAKE_INSTALL_INCLUDEDIR \u003d include (/opt/Project/include)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMAKE_INSTALL_INCLUDEDIR \u003d include (/opt/Project/include)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMAKE_INSTALL_LIBDIR \u003d lib64 (/opt/Project/lib64)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMAKE_INSTALL_LIBDIR \u003d lib64 (/opt/Project/lib64)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMAKE_INSTALL_MANDIR \u003d man (/opt/Project/man)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMAKE_INSTALL_MANDIR \u003d man (/opt/Project/man)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Shared libraries enabled (ENABLE_SHARED \u003d 1)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Shared libraries enabled (ENABLE_SHARED \u003d 1)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Static libraries enabled (ENABLE_STATIC \u003d 1)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Static libraries enabled (ENABLE_STATIC \u003d 1)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"12-bit JPEG support disabled (WITH_12BIT \u003d 0)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "12-bit JPEG support disabled (WITH_12BIT \u003d 0)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Arithmetic decoding support enabled (WITH_ARITH_DEC \u003d 1)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Arithmetic decoding support enabled (WITH_ARITH_DEC \u003d 1)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Arithmetic encoding support enabled (WITH_ARITH_ENC \u003d 1)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Arithmetic encoding support enabled (WITH_ARITH_ENC \u003d 1)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"TurboJPEG API library enabled (WITH_TURBOJPEG \u003d 1)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "TurboJPEG API library enabled (WITH_TURBOJPEG \u003d 1)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"TurboJPEG Java wrapper disabled (WITH_JAVA \u003d 0)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "TurboJPEG Java wrapper disabled (WITH_JAVA \u003d 0)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"In-memory source/destination managers enabled (WITH_MEM_SRCDST \u003d 1)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "In-memory source/destination managers enabled (WITH_MEM_SRCDST \u003d 1)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Emulating libjpeg API/ABI v6.2 (WITH_JPEG7 \u003d 0, WITH_JPEG8 \u003d 0)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Emulating libjpeg API/ABI v6.2 (WITH_JPEG7 \u003d 0, WITH_JPEG8 \u003d 0)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"libjpeg API shared library version \u003d 62.3.0\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "libjpeg API shared library version \u003d 62.3.0",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Compiler flags \u003d -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG \",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Compiler flags \u003d -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG ",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Linker flags \u003d -Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections  \",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Linker flags \u003d -Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections  ",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for sys/types.h\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for sys/types.h",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":418,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for sys/types.h - found\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for sys/types.h - found",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for stdint.h\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for stdint.h",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":438,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for stdint.h - found\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for stdint.h - found",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for stddef.h\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for stddef.h",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":456,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for stddef.h - found\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for stddef.h - found",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check size of size_t\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check size of size_t",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":474,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check size of size_t - done\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check size of size_t - done",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check size of unsigned long\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check size of unsigned long",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":492,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check size of unsigned long - done\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check size of unsigned long - done",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test HAVE_BUILTIN_CTZL\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test HAVE_BUILTIN_CTZL",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":509,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test HAVE_BUILTIN_CTZL - Success\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test HAVE_BUILTIN_CTZL - Success",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for include file locale.h\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for include file locale.h",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":525,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for include file locale.h - found\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for include file locale.h - found",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for include file stdlib.h\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for include file stdlib.h",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":541,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for include file stdlib.h - found\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for include file stdlib.h - found",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for include file sys/types.h\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for include file sys/types.h",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":556,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for include file sys/types.h - found\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for include file sys/types.h - found",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for memset\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for memset",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":571,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for memset - found\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for memset - found",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for memcpy\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for memcpy",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":585,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for memcpy - found\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for memcpy - found",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check size of unsigned char\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check size of unsigned char",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":599,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check size of unsigned char - done\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check size of unsigned char - done",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check size of unsigned short\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check size of unsigned short",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":612,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check size of unsigned short - done\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check size of unsigned short - done",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test INCOMPLETE_TYPES\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test INCOMPLETE_TYPES",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":625,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test INCOMPLETE_TYPES - Success\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test INCOMPLETE_TYPES - Success",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Compiler supports pointers to undefined structures.\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Compiler supports pointers to undefined structures.",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test INLINE_WORKS\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test INLINE_WORKS",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":638,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test INLINE_WORKS - Success\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test INLINE_WORKS - Success",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"INLINE \u003d __inline__ __attribute__((always_inline)) (FORCE_INLINE \u003d 1)\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "INLINE \u003d __inline__ __attribute__((always_inline)) (FORCE_INLINE \u003d 1)",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test HAVE_VERSION_SCRIPT\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test HAVE_VERSION_SCRIPT",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":650,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test HAVE_VERSION_SCRIPT - Success\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test HAVE_VERSION_SCRIPT - Success",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Linker supports GNU-style version scripts\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Linker supports GNU-style version scripts",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMAKE_EXECUTABLE_SUFFIX \u003d \",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMAKE_EXECUTABLE_SUFFIX \u003d ",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":662,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"The ASM compiler identification is Clang\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "The ASM compiler identification is Clang",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found assembler: D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Found assembler: D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMAKE_ASM_FLAGS \u003d -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O2 -DNDEBUG \",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMAKE_ASM_FLAGS \u003d -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O2 -DNDEBUG ",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"GAS appears to be broken.  Trying gas-preprocessor.pl ...\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "GAS appears to be broken.  Trying gas-preprocessor.pl ...",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at jni_jpeg/simd/CMakeLists.txt:5 (message):\\n  SIMD extensions disabled: GAS is not working properly.  Performance will\\n  suffer.\\nCall Stack (most recent call first):\\n  jni_jpeg/simd/CMakeLists.txt:252 (simd_fail)\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Warning at D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\simd\\CMakeLists.txt:5 (message):\r\n  SIMD extensions disabled: GAS is not working properly.  Performance will\r\n  suffer.\r\nCall Stack (most recent call first):\r\n  jni_jpeg/simd/CMakeLists.txt:252 (simd_fail)\r\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":673,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":684,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"FLOATTEST \u003d 64bit\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "FLOATTEST \u003d 64bit",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":912,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":924,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":937,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":950,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":962,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":974,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":987,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":125,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":250,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":375,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":500,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":625,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":750,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":875,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckCSourceCompiles.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFiles.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckTypeSize.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFileCXX.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.c.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.c.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.c.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckTypeSize.c.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckTypeSize.c.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeConfigurableFile.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeConfigurableFile.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeConfigurableFile.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckSymbolExists.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeConfigurableFile.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeConfigurableFile.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckTypeSize.c.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckTypeSize.c.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineASMCompiler.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeASMCompiler.cmake.in\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeASMInformation.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-ASM.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-ASM.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestASMCompiler.cmake\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"D:/android_sdk_beta/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\",\"D:/android_sdk_beta/ndk/20.0.5594570/build/cmake/platforms.cmake\",\"D:/android_sdk_beta/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\",\"jni/CMakeLists.txt\",\"jni_egl/CMakeLists.txt\",\"jni_jpegstream/CMakeLists.txt\",\"jni_jpeg/CMakeLists.txt\",\"jni_jpeg/cmakescripts/GNUInstallDirs.cmake\",\"jni_jpeg/jconfig.h.in\",\"jni_jpeg/jconfigint.h.in\",\"jni_jpeg/libjpeg.map.in\",\"jni_jpeg/tjbenchtest.in\",\"jni_jpeg/tjexampletest.in\",\"jni_jpeg/cmakescripts/BuildPackages.cmake\",\"jni_jpeg/release/maketarball.in\",\"jni_jpeg/release/libjpeg.pc.in\",\"jni_jpeg/release/libturbojpeg.pc.in\",\"jni_jpeg/cmakescripts/cmake_uninstall.cmake.in\",\"jni_jpeg/simd/CMakeLists.txt\",\"jni_jpeg/sharedlib/CMakeLists.txt\",\"jni_jpeg/md5/CMakeLists.txt\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/CheckTypeSize/SIZE_T.c\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/CheckTypeSize/UNSIGNED_LONG.c\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/CheckTypeSize/UNSIGNED_CHAR.c\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/CheckTypeSize/UNSIGNED_SHORT.c\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/3.10.2/CMakeASMCompiler.cmake\"]}],\"cmakeRootDirectory\":\"D:/android_sdk_beta/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp\",\"type\":\"reply\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a\",\"name\":\"Project\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp\",\"targets\":[{\"artifacts\":[\"D:/aosp/Gallery2/app/src/main/cpp/jniLibs/arm64-v8a/libjni_eglfence.so\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_egl\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -O2 -DNDEBUG  -fPIC  \",\"defines\":[\"jni_eglfence_EXPORTS\"],\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_egl/src\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"src/jni_egl_fence.cpp\"]}],\"fullName\":\"libjni_eglfence.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"-lEGL -llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"jni_eglfence\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_egl\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/src/main/cpp/jniLibs/arm64-v8a/libjni_filtershow_filters.so\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O2 -DNDEBUG  -fPIC  \",\"defines\":[\"jni_filtershow_filters_EXPORTS\"],\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni/filters\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"filters/gradient.c\",\"filters/saturated.c\",\"filters/exposure.c\",\"filters/edge.c\",\"filters/contrast.c\",\"filters/hue.c\",\"filters/shadows.c\",\"filters/highlight.c\",\"filters/hsv.c\",\"filters/vibrance.c\",\"filters/geometry.c\",\"filters/negative.c\",\"filters/redEyeMath.c\",\"filters/fx.c\",\"filters/wbalance.c\",\"filters/redeye.c\",\"filters/bwfilter.c\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -O2 -DNDEBUG  -fPIC  \",\"defines\":[\"jni_filtershow_filters_EXPORTS\"],\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni/filters\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"filters/tinyplanet.cc\",\"filters/kmeans.cc\"]}],\"fullName\":\"libjni_filtershow_filters.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"-ljnigraphics -llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"jni_filtershow_filters\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/tjexample\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"tjexample.c\"]}],\"fullName\":\"tjexample\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"D:\\\\aosp\\\\Gallery2\\\\app\\\\src\\\\main\\\\cpp\\\\jniLibs\\\\arm64-v8a\\\\libturbojpeg.so -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"tjexample\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/src/main/cpp/jniLibs/arm64-v8a/libturbojpeg.so\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIC   -DBMP_SUPPORTED -DPPM_SUPPORTED\",\"defines\":[\"turbojpeg_EXPORTS\"],\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"jcapimin.c\",\"jcapistd.c\",\"jccoefct.c\",\"jccolor.c\",\"jcdctmgr.c\",\"jchuff.c\",\"jcicc.c\",\"jcinit.c\",\"jcmainct.c\",\"jcmarker.c\",\"jcmaster.c\",\"jcomapi.c\",\"jcparam.c\",\"jcphuff.c\",\"jcprepct.c\",\"jcsample.c\",\"jctrans.c\",\"jdapimin.c\",\"jdapistd.c\",\"jdatadst.c\",\"jdatasrc.c\",\"jdcoefct.c\",\"jdcolor.c\",\"jddctmgr.c\",\"jdhuff.c\",\"jdicc.c\",\"jdinput.c\",\"jdmainct.c\",\"jdmarker.c\",\"jdmaster.c\",\"jdmerge.c\",\"jdphuff.c\",\"jdpostct.c\",\"jdsample.c\",\"jdtrans.c\",\"jerror.c\",\"jfdctflt.c\",\"jfdctfst.c\",\"jfdctint.c\",\"jidctflt.c\",\"jidctfst.c\",\"jidctint.c\",\"jidctred.c\",\"jquant1.c\",\"jquant2.c\",\"jutils.c\",\"jmemmgr.c\",\"jmemnobs.c\",\"jaricom.c\",\"jcarith.c\",\"jdarith.c\",\"turbojpeg.c\",\"transupp.c\",\"jdatadst-tj.c\",\"jdatasrc-tj.c\",\"rdbmp.c\",\"rdppm.c\",\"wrbmp.c\",\"wrppm.c\"]},{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/simd.dir/jsimd_none.c.o\"]}],\"fullName\":\"libturbojpeg.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack   -Wl,--version-script,D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg/turbojpeg-mapfile\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"turbojpeg\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/libturbojpeg.a\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIC   -DBMP_SUPPORTED -DPPM_SUPPORTED\",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"jcapimin.c\",\"jcapistd.c\",\"jccoefct.c\",\"jccolor.c\",\"jcdctmgr.c\",\"jchuff.c\",\"jcicc.c\",\"jcinit.c\",\"jcmainct.c\",\"jcmarker.c\",\"jcmaster.c\",\"jcomapi.c\",\"jcparam.c\",\"jcphuff.c\",\"jcprepct.c\",\"jcsample.c\",\"jctrans.c\",\"jdapimin.c\",\"jdapistd.c\",\"jdatadst.c\",\"jdatasrc.c\",\"jdcoefct.c\",\"jdcolor.c\",\"jddctmgr.c\",\"jdhuff.c\",\"jdicc.c\",\"jdinput.c\",\"jdmainct.c\",\"jdmarker.c\",\"jdmaster.c\",\"jdmerge.c\",\"jdphuff.c\",\"jdpostct.c\",\"jdsample.c\",\"jdtrans.c\",\"jerror.c\",\"jfdctflt.c\",\"jfdctfst.c\",\"jfdctint.c\",\"jidctflt.c\",\"jidctfst.c\",\"jidctint.c\",\"jidctred.c\",\"jquant1.c\",\"jquant2.c\",\"jutils.c\",\"jmemmgr.c\",\"jmemnobs.c\",\"jaricom.c\",\"jcarith.c\",\"jdarith.c\",\"turbojpeg.c\",\"transupp.c\",\"jdatadst-tj.c\",\"jdatasrc-tj.c\",\"rdbmp.c\",\"rdppm.c\",\"wrbmp.c\",\"wrppm.c\"]},{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/simd.dir/jsimd_none.c.o\"]}],\"fullName\":\"libturbojpeg.a\",\"linkerLanguage\":\"C\",\"name\":\"turbojpeg-static\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/tjunittest-static\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"tjunittest.c\",\"tjutil.c\",\"md5/md5.c\",\"md5/md5hl.c\"]}],\"fullName\":\"tjunittest-static\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"libturbojpeg.a -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"tjunittest-static\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/uninstall\",\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/uninstall.rule\"]}],\"fullName\":\"uninstall\",\"name\":\"uninstall\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"type\":\"UTILITY\"},{\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIC  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"jsimd_none.c\"]}],\"fullName\":\"simd\",\"name\":\"simd\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"type\":\"OBJECT_LIBRARY\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/tjunittest\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"tjunittest.c\",\"tjutil.c\",\"md5/md5.c\",\"md5/md5hl.c\"]}],\"fullName\":\"tjunittest\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"D:\\\\aosp\\\\Gallery2\\\\app\\\\src\\\\main\\\\cpp\\\\jniLibs\\\\arm64-v8a\\\\libturbojpeg.so -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"tjunittest\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/src/main/cpp/jniLibs/arm64-v8a/libjni_jpegstream.so\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpegstream\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -O2 -DNDEBUG  -fPIC  \",\"defines\":[\"jni_jpegstream_EXPORTS\"],\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/../jni_jpeg\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"src/inputstream_wrapper.cpp\",\"src/jpegstream.cpp\",\"src/jerr_hook.cpp\",\"src/jpeg_hook.cpp\",\"src/jpeg_writer.cpp\",\"src/jpeg_reader.cpp\",\"src/outputstream_wrapper.cpp\",\"src/stream_wrapper.cpp\"]}],\"fullName\":\"libjni_jpegstream.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"D:\\\\aosp\\\\Gallery2\\\\app\\\\src\\\\main\\\\cpp\\\\jniLibs\\\\arm64-v8a\\\\libturbojpeg.so ..\\\\jni_jpeg\\\\outputs\\\\libjpeg.so -llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"jni_jpegstream\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/tjbench\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"tjbench.c\",\"tjutil.c\"]}],\"fullName\":\"tjbench\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"D:\\\\aosp\\\\Gallery2\\\\app\\\\src\\\\main\\\\cpp\\\\jniLibs\\\\arm64-v8a\\\\libturbojpeg.so -lm -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"tjbench\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/libjpeg.a\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIC  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"jcapimin.c\",\"jcapistd.c\",\"jccoefct.c\",\"jccolor.c\",\"jcdctmgr.c\",\"jchuff.c\",\"jcicc.c\",\"jcinit.c\",\"jcmainct.c\",\"jcmarker.c\",\"jcmaster.c\",\"jcomapi.c\",\"jcparam.c\",\"jcphuff.c\",\"jcprepct.c\",\"jcsample.c\",\"jctrans.c\",\"jdapimin.c\",\"jdapistd.c\",\"jdatadst.c\",\"jdatasrc.c\",\"jdcoefct.c\",\"jdcolor.c\",\"jddctmgr.c\",\"jdhuff.c\",\"jdicc.c\",\"jdinput.c\",\"jdmainct.c\",\"jdmarker.c\",\"jdmaster.c\",\"jdmerge.c\",\"jdphuff.c\",\"jdpostct.c\",\"jdsample.c\",\"jdtrans.c\",\"jerror.c\",\"jfdctflt.c\",\"jfdctfst.c\",\"jfdctint.c\",\"jidctflt.c\",\"jidctfst.c\",\"jidctint.c\",\"jidctred.c\",\"jquant1.c\",\"jquant2.c\",\"jutils.c\",\"jmemmgr.c\",\"jmemnobs.c\",\"jaricom.c\",\"jcarith.c\",\"jdarith.c\"]},{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/simd.dir/jsimd_none.c.o\"]}],\"fullName\":\"libjpeg.a\",\"linkerLanguage\":\"C\",\"name\":\"jpeg-static\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/dist\",\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/dist.rule\"]}],\"fullName\":\"dist\",\"name\":\"dist\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"type\":\"UTILITY\"},{\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/testclean\",\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/testclean.rule\"]}],\"fullName\":\"testclean\",\"name\":\"testclean\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"type\":\"UTILITY\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/tjbench-static\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"tjbench.c\",\"tjutil.c\"]}],\"fullName\":\"tjbench-static\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"libturbojpeg.a -lm -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"tjbench-static\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/rdjpgcom\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"rdjpgcom.c\"]}],\"fullName\":\"rdjpgcom\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"rdjpgcom\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/tjtest\",\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/tjtest.rule\"]}],\"fullName\":\"tjtest\",\"name\":\"tjtest\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"type\":\"UTILITY\"},{\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/tarball\",\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/tarball.rule\"]},{\"isGenerated\":false,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/pkgscripts/maketarball\"]}],\"fullName\":\"tarball\",\"name\":\"tarball\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"type\":\"UTILITY\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/cjpeg-static\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE   -DBMP_SUPPORTED -DGIF_SUPPORTED -DPPM_SUPPORTED -DTARGA_SUPPORTED \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"cjpeg.c\",\"cdjpeg.c\",\"rdgif.c\",\"rdppm.c\",\"rdswitch.c\",\"rdbmp.c\",\"rdtarga.c\"]}],\"fullName\":\"cjpeg-static\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"libjpeg.a -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"cjpeg-static\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/djpeg-static\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE   -DBMP_SUPPORTED -DGIF_SUPPORTED -DPPM_SUPPORTED -DTARGA_SUPPORTED \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"djpeg.c\",\"cdjpeg.c\",\"rdcolmap.c\",\"rdswitch.c\",\"wrgif.c\",\"wrppm.c\",\"wrbmp.c\",\"wrtarga.c\"]}],\"fullName\":\"djpeg-static\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"libjpeg.a -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"djpeg-static\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/jpegtran-static\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"jpegtran.c\",\"cdjpeg.c\",\"rdswitch.c\",\"transupp.c\"]}],\"fullName\":\"jpegtran-static\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"libjpeg.a -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"jpegtran-static\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/wrjpgcom\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"wrjpgcom.c\"]}],\"fullName\":\"wrjpgcom\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"wrjpgcom\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/jcstest\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/sharedlib\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../jcstest.c\"]}],\"fullName\":\"jcstest\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"..\\\\libjpeg.so -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"jcstest\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg/sharedlib\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/md5/md5cmp\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/md5\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"md5cmp.c\",\"md5.c\",\"md5hl.c\"]}],\"fullName\":\"md5cmp\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"md5cmp\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg/md5\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/jpegtran\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/sharedlib\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../jpegtran.c\",\"../cdjpeg.c\",\"../rdswitch.c\",\"../transupp.c\"]}],\"fullName\":\"jpegtran\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"..\\\\libjpeg.so -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"jpegtran\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg/sharedlib\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/djpeg\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/sharedlib\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE   -DBMP_SUPPORTED -DGIF_SUPPORTED -DPPM_SUPPORTED -DTARGA_SUPPORTED \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../djpeg.c\",\"../cdjpeg.c\",\"../rdcolmap.c\",\"../rdswitch.c\",\"../wrgif.c\",\"../wrppm.c\",\"../wrbmp.c\",\"../wrtarga.c\"]}],\"fullName\":\"djpeg\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"..\\\\libjpeg.so -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"djpeg\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg/sharedlib\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/libjpeg.so\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/sharedlib\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIC  \",\"defines\":[\"jpeg_EXPORTS\"],\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../jcapimin.c\",\"../jcapistd.c\",\"../jccoefct.c\",\"../jccolor.c\",\"../jcdctmgr.c\",\"../jchuff.c\",\"../jcicc.c\",\"../jcinit.c\",\"../jcmainct.c\",\"../jcmarker.c\",\"../jcmaster.c\",\"../jcomapi.c\",\"../jcparam.c\",\"../jcphuff.c\",\"../jcprepct.c\",\"../jcsample.c\",\"../jctrans.c\",\"../jdapimin.c\",\"../jdapistd.c\",\"../jdatadst.c\",\"../jdatasrc.c\",\"../jdcoefct.c\",\"../jdcolor.c\",\"../jddctmgr.c\",\"../jdhuff.c\",\"../jdicc.c\",\"../jdinput.c\",\"../jdmainct.c\",\"../jdmarker.c\",\"../jdmaster.c\",\"../jdmerge.c\",\"../jdphuff.c\",\"../jdpostct.c\",\"../jdsample.c\",\"../jdtrans.c\",\"../jerror.c\",\"../jfdctflt.c\",\"../jfdctfst.c\",\"../jfdctint.c\",\"../jidctflt.c\",\"../jidctfst.c\",\"../jidctint.c\",\"../jidctred.c\",\"../jquant1.c\",\"../jquant2.c\",\"../jutils.c\",\"../jmemmgr.c\",\"../jmemnobs.c\",\"../jaricom.c\",\"../jcarith.c\",\"../jdarith.c\"]},{\"isGenerated\":true,\"sources\":[\"../../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/simd.dir/jsimd_none.c.o\"]}],\"fullName\":\"libjpeg.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack   -Wl,--version-script,D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/sharedlib/../libjpeg.map\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"jpeg\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg/sharedlib\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/cjpeg\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/sharedlib\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE   -DBMP_SUPPORTED -DGIF_SUPPORTED -DPPM_SUPPORTED -DTARGA_SUPPORTED \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../cjpeg.c\",\"../cdjpeg.c\",\"../rdgif.c\",\"../rdppm.c\",\"../rdswitch.c\",\"../rdbmp.c\",\"../rdtarga.c\"]}],\"fullName\":\"cjpeg\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"..\\\\libjpeg.so -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"cjpeg\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg/sharedlib\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"}]},{\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"name\":\"libjpeg-turbo\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"targets\":[{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/tjexample\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"tjexample.c\"]}],\"fullName\":\"tjexample\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"D:\\\\aosp\\\\Gallery2\\\\app\\\\src\\\\main\\\\cpp\\\\jniLibs\\\\arm64-v8a\\\\libturbojpeg.so -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"tjexample\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/src/main/cpp/jniLibs/arm64-v8a/libturbojpeg.so\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIC   -DBMP_SUPPORTED -DPPM_SUPPORTED\",\"defines\":[\"turbojpeg_EXPORTS\"],\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"jcapimin.c\",\"jcapistd.c\",\"jccoefct.c\",\"jccolor.c\",\"jcdctmgr.c\",\"jchuff.c\",\"jcicc.c\",\"jcinit.c\",\"jcmainct.c\",\"jcmarker.c\",\"jcmaster.c\",\"jcomapi.c\",\"jcparam.c\",\"jcphuff.c\",\"jcprepct.c\",\"jcsample.c\",\"jctrans.c\",\"jdapimin.c\",\"jdapistd.c\",\"jdatadst.c\",\"jdatasrc.c\",\"jdcoefct.c\",\"jdcolor.c\",\"jddctmgr.c\",\"jdhuff.c\",\"jdicc.c\",\"jdinput.c\",\"jdmainct.c\",\"jdmarker.c\",\"jdmaster.c\",\"jdmerge.c\",\"jdphuff.c\",\"jdpostct.c\",\"jdsample.c\",\"jdtrans.c\",\"jerror.c\",\"jfdctflt.c\",\"jfdctfst.c\",\"jfdctint.c\",\"jidctflt.c\",\"jidctfst.c\",\"jidctint.c\",\"jidctred.c\",\"jquant1.c\",\"jquant2.c\",\"jutils.c\",\"jmemmgr.c\",\"jmemnobs.c\",\"jaricom.c\",\"jcarith.c\",\"jdarith.c\",\"turbojpeg.c\",\"transupp.c\",\"jdatadst-tj.c\",\"jdatasrc-tj.c\",\"rdbmp.c\",\"rdppm.c\",\"wrbmp.c\",\"wrppm.c\"]},{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/simd.dir/jsimd_none.c.o\"]}],\"fullName\":\"libturbojpeg.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack   -Wl,--version-script,D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg/turbojpeg-mapfile\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"turbojpeg\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/libturbojpeg.a\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIC   -DBMP_SUPPORTED -DPPM_SUPPORTED\",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"jcapimin.c\",\"jcapistd.c\",\"jccoefct.c\",\"jccolor.c\",\"jcdctmgr.c\",\"jchuff.c\",\"jcicc.c\",\"jcinit.c\",\"jcmainct.c\",\"jcmarker.c\",\"jcmaster.c\",\"jcomapi.c\",\"jcparam.c\",\"jcphuff.c\",\"jcprepct.c\",\"jcsample.c\",\"jctrans.c\",\"jdapimin.c\",\"jdapistd.c\",\"jdatadst.c\",\"jdatasrc.c\",\"jdcoefct.c\",\"jdcolor.c\",\"jddctmgr.c\",\"jdhuff.c\",\"jdicc.c\",\"jdinput.c\",\"jdmainct.c\",\"jdmarker.c\",\"jdmaster.c\",\"jdmerge.c\",\"jdphuff.c\",\"jdpostct.c\",\"jdsample.c\",\"jdtrans.c\",\"jerror.c\",\"jfdctflt.c\",\"jfdctfst.c\",\"jfdctint.c\",\"jidctflt.c\",\"jidctfst.c\",\"jidctint.c\",\"jidctred.c\",\"jquant1.c\",\"jquant2.c\",\"jutils.c\",\"jmemmgr.c\",\"jmemnobs.c\",\"jaricom.c\",\"jcarith.c\",\"jdarith.c\",\"turbojpeg.c\",\"transupp.c\",\"jdatadst-tj.c\",\"jdatasrc-tj.c\",\"rdbmp.c\",\"rdppm.c\",\"wrbmp.c\",\"wrppm.c\"]},{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/simd.dir/jsimd_none.c.o\"]}],\"fullName\":\"libturbojpeg.a\",\"linkerLanguage\":\"C\",\"name\":\"turbojpeg-static\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/tjunittest-static\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"tjunittest.c\",\"tjutil.c\",\"md5/md5.c\",\"md5/md5hl.c\"]}],\"fullName\":\"tjunittest-static\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"libturbojpeg.a -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"tjunittest-static\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/uninstall\",\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/uninstall.rule\"]}],\"fullName\":\"uninstall\",\"name\":\"uninstall\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"type\":\"UTILITY\"},{\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIC  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"jsimd_none.c\"]}],\"fullName\":\"simd\",\"name\":\"simd\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"type\":\"OBJECT_LIBRARY\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/tjunittest\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"tjunittest.c\",\"tjutil.c\",\"md5/md5.c\",\"md5/md5hl.c\"]}],\"fullName\":\"tjunittest\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"D:\\\\aosp\\\\Gallery2\\\\app\\\\src\\\\main\\\\cpp\\\\jniLibs\\\\arm64-v8a\\\\libturbojpeg.so -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"tjunittest\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/tjbench\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"tjbench.c\",\"tjutil.c\"]}],\"fullName\":\"tjbench\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"D:\\\\aosp\\\\Gallery2\\\\app\\\\src\\\\main\\\\cpp\\\\jniLibs\\\\arm64-v8a\\\\libturbojpeg.so -lm -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"tjbench\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/libjpeg.a\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIC  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"jcapimin.c\",\"jcapistd.c\",\"jccoefct.c\",\"jccolor.c\",\"jcdctmgr.c\",\"jchuff.c\",\"jcicc.c\",\"jcinit.c\",\"jcmainct.c\",\"jcmarker.c\",\"jcmaster.c\",\"jcomapi.c\",\"jcparam.c\",\"jcphuff.c\",\"jcprepct.c\",\"jcsample.c\",\"jctrans.c\",\"jdapimin.c\",\"jdapistd.c\",\"jdatadst.c\",\"jdatasrc.c\",\"jdcoefct.c\",\"jdcolor.c\",\"jddctmgr.c\",\"jdhuff.c\",\"jdicc.c\",\"jdinput.c\",\"jdmainct.c\",\"jdmarker.c\",\"jdmaster.c\",\"jdmerge.c\",\"jdphuff.c\",\"jdpostct.c\",\"jdsample.c\",\"jdtrans.c\",\"jerror.c\",\"jfdctflt.c\",\"jfdctfst.c\",\"jfdctint.c\",\"jidctflt.c\",\"jidctfst.c\",\"jidctint.c\",\"jidctred.c\",\"jquant1.c\",\"jquant2.c\",\"jutils.c\",\"jmemmgr.c\",\"jmemnobs.c\",\"jaricom.c\",\"jcarith.c\",\"jdarith.c\"]},{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/simd.dir/jsimd_none.c.o\"]}],\"fullName\":\"libjpeg.a\",\"linkerLanguage\":\"C\",\"name\":\"jpeg-static\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/dist\",\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/dist.rule\"]}],\"fullName\":\"dist\",\"name\":\"dist\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"type\":\"UTILITY\"},{\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/testclean\",\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/testclean.rule\"]}],\"fullName\":\"testclean\",\"name\":\"testclean\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"type\":\"UTILITY\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/tjbench-static\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"tjbench.c\",\"tjutil.c\"]}],\"fullName\":\"tjbench-static\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"libturbojpeg.a -lm -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"tjbench-static\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/rdjpgcom\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"rdjpgcom.c\"]}],\"fullName\":\"rdjpgcom\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"rdjpgcom\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/tjtest\",\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/tjtest.rule\"]}],\"fullName\":\"tjtest\",\"name\":\"tjtest\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"type\":\"UTILITY\"},{\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/tarball\",\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/tarball.rule\"]},{\"isGenerated\":false,\"sources\":[\"../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/pkgscripts/maketarball\"]}],\"fullName\":\"tarball\",\"name\":\"tarball\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"type\":\"UTILITY\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/cjpeg-static\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE   -DBMP_SUPPORTED -DGIF_SUPPORTED -DPPM_SUPPORTED -DTARGA_SUPPORTED \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"cjpeg.c\",\"cdjpeg.c\",\"rdgif.c\",\"rdppm.c\",\"rdswitch.c\",\"rdbmp.c\",\"rdtarga.c\"]}],\"fullName\":\"cjpeg-static\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"libjpeg.a -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"cjpeg-static\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/djpeg-static\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE   -DBMP_SUPPORTED -DGIF_SUPPORTED -DPPM_SUPPORTED -DTARGA_SUPPORTED \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"djpeg.c\",\"cdjpeg.c\",\"rdcolmap.c\",\"rdswitch.c\",\"wrgif.c\",\"wrppm.c\",\"wrbmp.c\",\"wrtarga.c\"]}],\"fullName\":\"djpeg-static\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"libjpeg.a -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"djpeg-static\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/jpegtran-static\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"jpegtran.c\",\"cdjpeg.c\",\"rdswitch.c\",\"transupp.c\"]}],\"fullName\":\"jpegtran-static\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"libjpeg.a -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"jpegtran-static\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/wrjpgcom\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"wrjpgcom.c\"]}],\"fullName\":\"wrjpgcom\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"wrjpgcom\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/jcstest\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/sharedlib\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../jcstest.c\"]}],\"fullName\":\"jcstest\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"..\\\\libjpeg.so -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"jcstest\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg/sharedlib\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/md5/md5cmp\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/md5\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"md5cmp.c\",\"md5.c\",\"md5hl.c\"]}],\"fullName\":\"md5cmp\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"md5cmp\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg/md5\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/jpegtran\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/sharedlib\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE  \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../jpegtran.c\",\"../cdjpeg.c\",\"../rdswitch.c\",\"../transupp.c\"]}],\"fullName\":\"jpegtran\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"..\\\\libjpeg.so -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"jpegtran\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg/sharedlib\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/djpeg\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/sharedlib\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE   -DBMP_SUPPORTED -DGIF_SUPPORTED -DPPM_SUPPORTED -DTARGA_SUPPORTED \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../djpeg.c\",\"../cdjpeg.c\",\"../rdcolmap.c\",\"../rdswitch.c\",\"../wrgif.c\",\"../wrppm.c\",\"../wrbmp.c\",\"../wrtarga.c\"]}],\"fullName\":\"djpeg\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"..\\\\libjpeg.so -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"djpeg\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg/sharedlib\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/libjpeg.so\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/sharedlib\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIC  \",\"defines\":[\"jpeg_EXPORTS\"],\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../jcapimin.c\",\"../jcapistd.c\",\"../jccoefct.c\",\"../jccolor.c\",\"../jcdctmgr.c\",\"../jchuff.c\",\"../jcicc.c\",\"../jcinit.c\",\"../jcmainct.c\",\"../jcmarker.c\",\"../jcmaster.c\",\"../jcomapi.c\",\"../jcparam.c\",\"../jcphuff.c\",\"../jcprepct.c\",\"../jcsample.c\",\"../jctrans.c\",\"../jdapimin.c\",\"../jdapistd.c\",\"../jdatadst.c\",\"../jdatasrc.c\",\"../jdcoefct.c\",\"../jdcolor.c\",\"../jddctmgr.c\",\"../jdhuff.c\",\"../jdicc.c\",\"../jdinput.c\",\"../jdmainct.c\",\"../jdmarker.c\",\"../jdmaster.c\",\"../jdmerge.c\",\"../jdphuff.c\",\"../jdpostct.c\",\"../jdsample.c\",\"../jdtrans.c\",\"../jerror.c\",\"../jfdctflt.c\",\"../jfdctfst.c\",\"../jfdctint.c\",\"../jidctflt.c\",\"../jidctfst.c\",\"../jidctint.c\",\"../jidctred.c\",\"../jquant1.c\",\"../jquant2.c\",\"../jutils.c\",\"../jmemmgr.c\",\"../jmemnobs.c\",\"../jaricom.c\",\"../jcarith.c\",\"../jdarith.c\"]},{\"isGenerated\":true,\"sources\":[\"../../../../../.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/CMakeFiles/simd.dir/jsimd_none.c.o\"]}],\"fullName\":\"libjpeg.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack   -Wl,--version-script,D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/sharedlib/../libjpeg.map\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"jpeg\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg/sharedlib\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/cjpeg\"],\"buildDirectory\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs/sharedlib\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE   -DBMP_SUPPORTED -DGIF_SUPPORTED -DPPM_SUPPORTED -DTARGA_SUPPORTED \",\"includePath\":[{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src\"},{\"path\":\"D:/aosp/Gallery2/app/.cxx/cmake/release/arm64-v8a/jni_jpeg/outputs\"},{\"path\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../cjpeg.c\",\"../cdjpeg.c\",\"../rdgif.c\",\"../rdppm.c\",\"../rdswitch.c\",\"../rdbmp.c\",\"../rdtarga.c\"]}],\"fullName\":\"cjpeg\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG\",\"linkLibraries\":\"..\\\\libjpeg.so -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"cjpeg\",\"sourceDirectory\":\"D:/aosp/Gallery2/app/src/main/cpp/jni_jpeg/sharedlib\",\"sysroot\":\"D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_output.txt",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_command.txt",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  }
+]

@@ -1,0 +1,1844 @@
+{
+  "stringTable": {
+    "0": "D:/aosp/Gallery2/app/.cxx/cmake/release/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi18 --gcc-toolchain=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Djni_filtershow_filters_EXPORTS -ID:/aosp/Gallery2/app/src/main/cpp/jni/filters -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -Oz -DNDEBUG -fPIC",
+    "2": "--target=armv7-none-linux-androideabi18 --gcc-toolchain=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Djni_eglfence_EXPORTS -ID:/aosp/Gallery2/app/src/main/cpp/jni_egl/src -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -Oz -DNDEBUG -fPIC",
+    "3": "--target=armv7-none-linux-androideabi18 --gcc-toolchain=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Djni_jpegstream_EXPORTS -ID:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src -ID:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/../jni_jpeg -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -Oz -DNDEBUG -fPIC",
+    "4": "--target=armv7-none-linux-androideabi18 --gcc-toolchain=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -ID:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src -Ijni_jpeg/outputs -ID:/aosp/Gallery2/app/src/main/cpp/jni_jpeg -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -Oz -DNDEBUG -fPIC",
+    "5": "--target=armv7-none-linux-androideabi18 --gcc-toolchain=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dturbojpeg_EXPORTS -ID:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src -Ijni_jpeg/outputs -ID:/aosp/Gallery2/app/src/main/cpp/jni_jpeg -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -Oz -DNDEBUG -fPIC -DBMP_SUPPORTED -DPPM_SUPPORTED",
+    "6": "--target=armv7-none-linux-androideabi18 --gcc-toolchain=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -ID:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src -Ijni_jpeg/outputs -ID:/aosp/Gallery2/app/src/main/cpp/jni_jpeg -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -Oz -DNDEBUG -fPIE",
+    "7": "--target=armv7-none-linux-androideabi18 --gcc-toolchain=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -ID:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src -Ijni_jpeg/outputs -ID:/aosp/Gallery2/app/src/main/cpp/jni_jpeg -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -Oz -DNDEBUG -fPIC -DBMP_SUPPORTED -DPPM_SUPPORTED",
+    "8": "--target=armv7-none-linux-androideabi18 --gcc-toolchain=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -ID:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src -Ijni_jpeg/outputs -ID:/aosp/Gallery2/app/src/main/cpp/jni_jpeg -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -Oz -DNDEBUG -fPIE -DBMP_SUPPORTED -DGIF_SUPPORTED -DPPM_SUPPORTED -DTARGA_SUPPORTED",
+    "9": "--target=armv7-none-linux-androideabi18 --gcc-toolchain=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android_sdk_beta/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Djpeg_EXPORTS -ID:/aosp/Gallery2/app/src/main/cpp/jni_jpegstream/src -Ijni_jpeg/outputs -ID:/aosp/Gallery2/app/src/main/cpp/jni_jpeg -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -Oz -DNDEBUG -fPIC",
+    "10": "null"
+  },
+  "buildFiles": [
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jconfigint.h.in",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\tjexampletest.in",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\cmakescripts\\BuildPackages.cmake",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\cmakescripts\\GNUInstallDirs.cmake",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\release\\libjpeg.pc.in",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\release\\libturbojpeg.pc.in",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\libjpeg.map.in",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpegstream\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\tjbenchtest.in",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_egl\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\release\\maketarball.in",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\simd\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\cmakescripts\\cmake_uninstall.cmake.in",
+    "D:\\android_sdk_beta\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\sharedlib\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\md5\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\CMakeLists.txt",
+    "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jconfig.h.in",
+    "D:\\android_sdk_beta\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "turbojpeg-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" turbojpeg",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "turbojpeg",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\CMakeFiles\\simd.dir\\jsimd_none.c.o",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcapimin.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcapistd.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jccoefct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jccolor.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcdctmgr.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jchuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcicc.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcinit.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcmainct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcmarker.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcmaster.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcomapi.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcparam.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcphuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcprepct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcsample.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jctrans.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdapimin.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdapistd.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdatadst.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdatasrc.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdcoefct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdcolor.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jddctmgr.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdhuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdicc.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdinput.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmainct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmarker.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmaster.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmerge.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdphuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdpostct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdsample.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdtrans.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jerror.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jfdctflt.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jfdctfst.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jfdctint.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctflt.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctfst.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctint.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctred.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jquant1.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jquant2.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jutils.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jmemmgr.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jmemnobs.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jaricom.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcarith.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdarith.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\turbojpeg.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\transupp.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdatadst-tj.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdatasrc-tj.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdbmp.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdppm.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\wrbmp.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\wrppm.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jniLibs\\armeabi-v7a\\libturbojpeg.so"
+    },
+    "djpeg-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" djpeg",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "djpeg",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\djpeg.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\cdjpeg.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdcolmap.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdswitch.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\wrgif.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\wrppm.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\wrbmp.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\wrtarga.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\djpeg"
+    },
+    "tjbench-static-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" tjbench-static",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "tjbench-static",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\tjbench.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\tjutil.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\tjbench-static"
+    },
+    "jni_jpegstream-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" jni_jpegstream",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "jni_jpegstream",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpegstream\\src\\inputstream_wrapper.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpegstream\\src\\jpegstream.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpegstream\\src\\jerr_hook.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpegstream\\src\\jpeg_hook.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpegstream\\src\\jpeg_writer.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpegstream\\src\\jpeg_reader.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpegstream\\src\\outputstream_wrapper.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpegstream\\src\\stream_wrapper.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jniLibs\\armeabi-v7a\\libjni_jpegstream.so"
+    },
+    "jni_filtershow_filters-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" jni_filtershow_filters",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "jni_filtershow_filters",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\gradient.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\saturated.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\exposure.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\edge.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\contrast.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\hue.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\shadows.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\highlight.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\hsv.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\vibrance.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\geometry.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\negative.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\redEyeMath.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\fx.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\wbalance.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\redeye.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\bwfilter.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\tinyplanet.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni\\filters\\kmeans.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jniLibs\\armeabi-v7a\\libjni_filtershow_filters.so"
+    },
+    "wrjpgcom-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" wrjpgcom",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "wrjpgcom",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\wrjpgcom.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\wrjpgcom"
+    },
+    "jpeg-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" jpeg",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "jpeg",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcapimin.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcapistd.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jccoefct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jccolor.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcdctmgr.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jchuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcicc.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcinit.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcmainct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcmarker.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcmaster.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcomapi.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcparam.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcphuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcprepct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcsample.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jctrans.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdapimin.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdapistd.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdatadst.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdatasrc.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdcoefct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdcolor.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jddctmgr.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdhuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdicc.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdinput.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmainct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmarker.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmaster.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmerge.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdphuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdpostct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdsample.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdtrans.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jerror.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jfdctflt.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jfdctfst.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jfdctint.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctflt.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctfst.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctint.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctred.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jquant1.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jquant2.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jutils.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jmemmgr.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jmemnobs.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jaricom.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcarith.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdarith.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\CMakeFiles\\simd.dir\\jsimd_none.c.o",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\libjpeg.so"
+    },
+    "djpeg-static-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" djpeg-static",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "djpeg-static",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\djpeg.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\cdjpeg.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdcolmap.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdswitch.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\wrgif.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\wrppm.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\wrbmp.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\wrtarga.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\djpeg-static"
+    },
+    "md5cmp-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" md5cmp",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "md5cmp",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\md5\\md5cmp.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\md5\\md5.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\md5\\md5hl.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\md5\\md5cmp"
+    },
+    "tjunittest-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" tjunittest",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "tjunittest",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\tjunittest.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\tjutil.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\md5\\md5.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\md5\\md5hl.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\tjunittest"
+    },
+    "cjpeg-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" cjpeg",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "cjpeg",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\cjpeg.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\cdjpeg.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdgif.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdppm.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdswitch.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdbmp.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdtarga.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\cjpeg"
+    },
+    "jpeg-static-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" jpeg-static",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "jpeg-static",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcapimin.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcapistd.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jccoefct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jccolor.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcdctmgr.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jchuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcicc.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcinit.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcmainct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcmarker.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcmaster.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcomapi.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcparam.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcphuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcprepct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcsample.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jctrans.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdapimin.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdapistd.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdatadst.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdatasrc.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdcoefct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdcolor.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jddctmgr.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdhuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdicc.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdinput.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmainct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmarker.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmaster.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmerge.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdphuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdpostct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdsample.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdtrans.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jerror.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jfdctflt.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jfdctfst.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jfdctint.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctflt.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctfst.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctint.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctred.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jquant1.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jquant2.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jutils.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jmemmgr.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jmemnobs.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jaricom.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcarith.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdarith.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\CMakeFiles\\simd.dir\\jsimd_none.c.o",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\libjpeg.a"
+    },
+    "jpegtran-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" jpegtran",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "jpegtran",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jpegtran.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\cdjpeg.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdswitch.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\transupp.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\jpegtran"
+    },
+    "jcstest-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" jcstest",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "jcstest",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcstest.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\jcstest"
+    },
+    "turbojpeg-static-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" turbojpeg-static",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "turbojpeg-static",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcapimin.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcapistd.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jccoefct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jccolor.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcdctmgr.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jchuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcicc.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcinit.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcmainct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcmarker.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcmaster.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcomapi.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcparam.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcphuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcprepct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcsample.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jctrans.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdapimin.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdapistd.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdatadst.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdatasrc.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdcoefct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdcolor.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jddctmgr.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdhuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdicc.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdinput.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmainct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmarker.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmaster.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdmerge.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdphuff.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdpostct.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdsample.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdtrans.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jerror.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jfdctflt.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jfdctfst.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jfdctint.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctflt.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctfst.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctint.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jidctred.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jquant1.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jquant2.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jutils.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jmemmgr.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jmemnobs.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jaricom.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jcarith.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdarith.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\turbojpeg.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\transupp.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdatadst-tj.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jdatasrc-tj.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdbmp.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdppm.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\wrbmp.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\wrppm.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\CMakeFiles\\simd.dir\\jsimd_none.c.o",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\libturbojpeg.a"
+    },
+    "tjunittest-static-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" tjunittest-static",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "tjunittest-static",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\tjunittest.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\tjutil.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\md5\\md5.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\md5\\md5hl.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\tjunittest-static"
+    },
+    "tjbench-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" tjbench",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "tjbench",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\tjbench.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\tjutil.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\tjbench"
+    },
+    "jpegtran-static-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" jpegtran-static",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "jpegtran-static",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\jpegtran.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\cdjpeg.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdswitch.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\transupp.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\jpegtran-static"
+    },
+    "tjexample-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" tjexample",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "tjexample",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\tjexample.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\tjexample"
+    },
+    "rdjpgcom-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" rdjpgcom",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "rdjpgcom",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdjpgcom.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\rdjpgcom"
+    },
+    "jni_eglfence-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" jni_eglfence",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "jni_eglfence",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_egl\\src\\jni_egl_fence.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jniLibs\\armeabi-v7a\\libjni_eglfence.so"
+    },
+    "cjpeg-static-Release-armeabi-v7a": {
+      "buildCommand": "D:\\android_sdk_beta\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\" cjpeg-static",
+      "buildType": "release",
+      "toolchain": "4078340160",
+      "abi": "armeabi-v7a",
+      "artifactName": "cjpeg-static",
+      "files": [
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\cjpeg.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\cdjpeg.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdgif.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdppm.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdswitch.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdbmp.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\aosp\\Gallery2\\app\\src\\main\\cpp\\jni_jpeg\\rdtarga.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\aosp\\Gallery2\\app\\.cxx\\cmake\\release\\armeabi-v7a\\jni_jpeg\\outputs\\cjpeg-static"
+    }
+  },
+  "toolchains": {
+    "4078340160": {
+      "cCompilerExecutable": "D:\\android_sdk_beta\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "D:\\android_sdk_beta\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cc",
+    "cpp"
+  ]
+}
