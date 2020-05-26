@@ -29,7 +29,7 @@ add_subdirectory(${lib_src_DIR} ${lib_build_DIR})
 add_library(turbojpep STATIC IMPORTED)
 set_target_properties(turbojpeg PROPERTIES IMPORTED_LOCATION ${lib_build_DIR}/${CMAKE_ANDROID_ARCH_ABI}/libturbojpeg.a)
 add_library(jpep STATIC IMPORTED)
-set_target_properties(turbojpeg PROPERTIES IMPORTED_LOCATION ${lib_build_DIR}/${CMAKE_ANDROID_ARCH_ABI}/libjpeg.a)
+set_target_properties(jpeg PROPERTIES IMPORTED_LOCATION ${lib_build_DIR}/${CMAKE_ANDROID_ARCH_ABI}/libjpeg.a)
 
 include_directories( ${lib_src_DIR})
 target_link_libraries(jni_jpegstream turbojpeg  jpeg log)
